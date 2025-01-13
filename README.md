@@ -111,7 +111,7 @@ pip install pyaudio
 
 ## Repository
 Access the project on GitHub:
-[Voice Chat Application Repository](https://github.com/OmerEmreBozkurt/VoiceChatApp)
+[Voice Chat Application Repository](https://github.com/erendarak/CS447-VoiceChatApp)
 
 ---
 
